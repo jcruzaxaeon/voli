@@ -12,6 +12,7 @@ Matches
       _  Project               1     hr        ax
       _  Tea                   15    min       ax     "Includes light reading"
       _  Sequencing            30    min       ax
+      x  VOLI                  5     min       ax     "Push initial `VOLI` commit to GitHub"
       _  Read                  30    min       nn
    tuesday1 = {date: "March 5, 2024"}
       x  title                 n     unit      user   detail
