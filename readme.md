@@ -37,8 +37,22 @@ Team
 ## Workspace
 1. Pull Request Practice: Part 1
 1. Pull Request Practice: Part 2
-1. Add, Commit image to `readme` locally through `git`-CLI:
-   - ![local-icon](https://github.com/jcruzaxaeon/voli/assets/149653889/3352b5b0-9a85-4c2c-ab5b-3164a752b808)
+1. Create intentional merge-conflict 
+   1. Unable to resolve merge-conflict with standard text-editing until:
+      ```s
+      $ git config pull.rebase false #merge
+      $ git pull
+      ```
+   1. `pull.rebase false` allows `conflict-markers` to populate files with differences
+   1. Combine updates manually below
+   1. Delete `conflict-markers`
+   1. Push
+1. Add, commit image to `readme`:
+   1. Local, `git`-CLI:
+      - ![local-icon](https://github.com/jcruzaxaeon/voli/assets/149653889/3352b5b0-9a85-4c2c-ab5b-3164a752b808)
+   1. Remote, GitHub Site:
+      - ![icon](https://github.com/jcruzaxaeon/voli/assets/149653889/d5920074-1bd5-473c-9a61-0596c248e82d)
+
 
 ## Notes
 > [!NOTE] Since the current format is essentially a white-space delimited format any entries that include "white-space" must be surrounded by double-quotes (").  Use `camelCase` where possible.
