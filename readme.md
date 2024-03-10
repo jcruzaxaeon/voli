@@ -36,6 +36,9 @@ Team
 
 ## Workspace
 1. Pull Request Practice: Part 1
+1. Pull Request Practice: Part 2
+
+## Notes
 > [!NOTE] Since the current format is essentially a white-space delimited format any entries that include "white-space" must be surrounded by double-quotes (").  Use `camelCase` where possible.
 - Based on the `.TBL`, and `.TBLS` format.
 
