@@ -37,6 +37,8 @@ Team
 ## Workspace
 1. Pull Request Practice: Part 1
 1. Pull Request Practice: Part 2
+1. Add, Commit image to `readme` locally through `git`-CLI:
+   - ![local-icon](https://github.com/jcruzaxaeon/voli/assets/149653889/3352b5b0-9a85-4c2c-ab5b-3164a752b808)
 
 ## Notes
 > [!NOTE] Since the current format is essentially a white-space delimited format any entries that include "white-space" must be surrounded by double-quotes (").  Use `camelCase` where possible.
