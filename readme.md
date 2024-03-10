@@ -46,7 +46,7 @@ Team
    1. `pull.rebase false` allows `conflict-markers` to populate files with differences
    1. Combine updates manually below
    1. Delete `conflict-markers`
-   1. Push
+   1. Stage (`add`), `commit`, `push`
 1. Add, commit image to `readme`:
    1. Local, `git`-CLI:
       - ![local-icon](https://github.com/jcruzaxaeon/voli/assets/149653889/3352b5b0-9a85-4c2c-ab5b-3164a752b808)
