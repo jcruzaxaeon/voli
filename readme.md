@@ -37,6 +37,8 @@ Team
 ## Workspace
 1. Pull Request Practice: Part 1
 1. Pull Request Practice: Part 2
+1. Add, Commit image below through GitHub Site:
+   ![icon](https://github.com/jcruzaxaeon/voli/assets/149653889/d5920074-1bd5-473c-9a61-0596c248e82d)
 
 ## Notes
 > [!NOTE] Since the current format is essentially a white-space delimited format any entries that include "white-space" must be surrounded by double-quotes (").  Use `camelCase` where possible.
