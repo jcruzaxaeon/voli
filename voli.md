@@ -1,4 +1,12 @@
 ## Match Cards
+   ### Thursday 3.14
+      ```omni
+        X   title           tier   n    unit       user   detail
+        -   Chromebook      2      1    hr(max)    nn
+        -   Research        1      1    hr(max)    nn
+        -   NF Read         2      30   min(min)   nn
+        -   SKAM            3      1    hr         ax
+        ```
    ### Tuesday 3.12
       ```omni
         X   title           tier   n    unit       user   detail
